@@ -122,6 +122,16 @@
                 tl:tl_indicator_margin_right="2dp"
                 tl:tl_indicator_style="BLOCK"/>
 
+            <com.flyco.tablayout.SlidingTabLayout
+                android:id="@+id/tl_11"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:background="#1a9baa"
+                tl:tl_textBold="BOTH"
+                tl:tl_textSelectSize="22sp"
+                tl:tl_tab_width="95dp"
+                tl:tl_textsize="14sp" />
+
         </LinearLayout>
 
         <androidx.viewpager.widget.ViewPager
